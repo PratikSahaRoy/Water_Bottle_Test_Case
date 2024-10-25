@@ -3,7 +3,7 @@
 1.Check the height of the water bottle.
 2.Check the body shape of the water bottle.
 3.Check the body color of the water bottle.
-4.Check the weight of the water bottle.
+4.Check the weight of the empty water bottle.
 5.Check the body material matches the expected material.
 6.Check if the bottle capacity matches the expected/specified capacity.
 7.Check if the color of the bottle matches the expectation.
@@ -21,3 +21,4 @@
 19.Check the endpoint of the bottle.
 20.Check the bottle is comfortable to hold or not.
 21.Check the smothness of the bottle cap.
+22.Check the maximum temperature the bottle can absorb.
